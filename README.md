@@ -38,10 +38,22 @@ Work on a business management platform, including a Next.js interface, Laravel A
 
 <!-- Lawalia: add only owner-approved, sanitised screenshots under assets/lawalia/. Do not publish the private repository or internal documents. -->
 
+<a href="projects/lawalia.md"><img src="assets/lawalia/bank-collection-workspace-desktop.png" width="720" alt="Lawalia bank collection workspace on desktop, with fictitious data: a sidebar with account, organisation and bank-register sections, and a card for a masked bank account with its expected statement and deadline"></a>
+
+*Bank collection workspace, from an automated browser test with fictitious data.*
+
+**[Project details & screenshots →](projects/lawalia.md)**
+
 ### Jeliba — Mobile-first video experience
 **Project for Lawal Tech · Private repository**
 
 A web video platform built with Next.js, React and Supabase/PostgreSQL: catalogue search, watchlists, reactions, HLS playback, subtitles, playback resumption and data-saving controls.
+
+<a href="projects/jeliba.md"><img src="assets/jeliba/mobile-series-page.webp" width="280" alt="Jeliba public beta on a phone: the Soundiata Keïta series page with 'Oral tradition', 'Pilot series' and 'Demo content' labels, a 'Start · Season 1, episode 1' button and a 'Sign in to add to my list' button"></a>
+
+*Public beta on a phone: a series page with its editorial and demo labels.*
+
+**[Project details & screenshots →](projects/jeliba.md)**
 
 ### [Venlio](https://getvenlio.com) — AI for online stores
 **Solo founder & developer · E-commerce SaaS**
