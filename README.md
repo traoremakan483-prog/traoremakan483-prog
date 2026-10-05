@@ -1,11 +1,11 @@
 # Makan Traoré
 
-### Full-stack development · Applied AI · Cloud engineering
-**Malian builder based in Kuala Lumpur · IT student at Asia Pacific University**
+### Full-stack development · Cloud engineering · Community leadership
+**IT student at Asia Pacific University · From Mali, based in Kuala Lumpur**
 
-I learn by turning questions into projects. My interests move between software, artificial intelligence, e-commerce and the people who use them. Before building tools for online merchants, I worked on my own e-commerce ventures — **Lunava, Lovendi and Selené**. That experience shapes how I think about products, customer journeys and the practical problems worth solving.
+I’m Makan, an Information Technology student specialising in Cloud Engineering. I build web applications and use personal projects to understand the systems behind them: APIs, databases, networks and cloud infrastructure.
 
-I am especially curious about new developments in AI: how models work inside useful applications, how coding agents can help me explore unfamiliar systems, and how to check the results. I enjoy learning new tools, asking questions and improving through feedback.
+My experience also includes e-commerce ventures and community leadership in Mali. I’m curious about unfamiliar tools, enjoy learning through practical work, and care about being able to explain what I build. This profile brings together my projects, technical work and experiences beyond software.
 
 **Academic internship: 4 January–25 April 2027 · 16 weeks · Kuala Lumpur / Malaysia**
 
@@ -14,17 +14,6 @@ I am especially curious about new developments in AI: how models work inside use
 ---
 
 ## Selected work
-
-### [Venlio](https://getvenlio.com) — AI for online stores
-**Solo founder & developer · E-commerce SaaS**
-
-An AI sales and support assistant for Shopify and WooCommerce stores. Built around catalogue-grounded answers, a lightweight embeddable widget, store synchronisation and billing controls.
-
-- TypeScript / Hono on Google Cloud Run, Firestore, Gemini through Vertex AI.
-- Multi-tenant workflows, signature-verified billing webhooks and catalogue imports.
-- Connects my experience running e-commerce ventures with my interest in useful AI products.
-
-**[Visit the project →](https://getvenlio.com)**
 
 ### [La Maison de l’Espoir](https://github.com/traoremakan483-prog/maison-espoir-app) — Software for a care centre
 **Family-centre project · In development, running locally**
@@ -36,6 +25,11 @@ The work includes database-level access controls, audit logs and immutable-payme
 [![Maison de l’Espoir dashboard](https://raw.githubusercontent.com/traoremakan483-prog/maison-espoir-app/main/docs/screenshots/02-tableau-de-bord.png)](https://github.com/traoremakan483-prog/maison-espoir-app#screenshots)
 
 **[Code & screenshots →](https://github.com/traoremakan483-prog/maison-espoir-app#screenshots)**
+
+### [NetCraft AI](https://github.com/traoremakan483-prog/netcraft-ai) — Network planning
+An application that turns a network description into VLSM addressing plans, VLAN assignments and Cisco IOS configurations, with design validation. Next.js, Prisma and PostgreSQL.
+
+**[Project →](https://netcraft-ai.vercel.app) · [Code →](https://github.com/traoremakan483-prog/netcraft-ai)**
 
 ### Lawalia — Business software for francophone Africa
 **Project for Lawal Tech · Private repository · In development**
@@ -49,17 +43,23 @@ Work on a business management platform, including a Next.js interface, Laravel A
 
 A web video platform built with Next.js, React and Supabase/PostgreSQL: catalogue search, watchlists, reactions, HLS playback, subtitles, playback resumption and data-saving controls.
 
+### [Venlio](https://getvenlio.com) — AI for online stores
+**Solo founder & developer · E-commerce SaaS**
+
+An AI sales and support assistant for Shopify and WooCommerce stores. Built around catalogue-grounded answers, a lightweight embeddable widget, store synchronisation and billing controls.
+
+- TypeScript / Hono on Google Cloud Run, Firestore, Gemini through Vertex AI.
+- Multi-tenant workflows, signature-verified billing webhooks and catalogue imports.
+- Connects my experience running e-commerce ventures with my interest in useful AI products.
+
+**[Visit the project →](https://getvenlio.com)**
+
 ### [CivicBridge AI](https://github.com/traoremakan483-prog/civicbridge-ai) — Making information easier to use
 **Hackathon prototype, developed further · Python / RAG**
 
 A multilingual public-service navigator that grounds answers in bundled demonstration guides and displays supporting excerpts. Supports eight answer languages, with tests around retrieval and response handling. The guides are prototype material, not live government services.
 
 **[Code & project explanation →](https://github.com/traoremakan483-prog/civicbridge-ai)**
-
-### [NetCraft AI](https://github.com/traoremakan483-prog/netcraft-ai) — Network planning
-An application that turns a network description into VLSM addressing plans, VLAN assignments and Cisco IOS configurations, with design validation. Next.js, Prisma and PostgreSQL.
-
-**[Project →](https://netcraft-ai.vercel.app) · [Code →](https://github.com/traoremakan483-prog/netcraft-ai)**
 
 ### [AWS Home Lab](https://github.com/traoremakan483-prog/aws-home-lab) — Cloud fundamentals in practice
 A documented AWS environment: VPC, public/private subnets, EC2/Apache, S3, private RDS MySQL and IAM. Built through the Console and CLI to understand the underlying networking and service boundaries.
@@ -94,7 +94,15 @@ I began public advocacy as a child. UNICEF names me among the contributors to th
 
 These experiences shape how I communicate, coordinate work and think about the people a project should serve.
 
-<!-- Add verified personal photos/video and Africa Climate Summit details once supplied. Do not invent a date, role, audience size, or media link. -->
+### Africa Climate Summit — Kenya, 2023
+I attended the Africa Climate Summit in Kenya. My personal photo archive includes speaking moments, a francophone roundtable, the UNICEF stand and time with other participants.
+
+<p>
+  <a href="https://makan-traore-portfolio.makanime3.chatgpt.site/#community"><img src="https://makan-traore-portfolio.makanime3.chatgpt.site/assets/community/msdh-ambassador.jpeg" width="360" alt="MSDH announcement presenting Makan Traoré as Human Rights Ambassador No. 12"></a>
+  <a href="https://makan-traore-portfolio.makanime3.chatgpt.site/#community"><img src="https://makan-traore-portfolio.makanime3.chatgpt.site/assets/community/climate-speaking.jpeg" width="245" alt="A speaking moment during the Africa Climate Summit in Kenya"></a>
+</p>
+
+[View the complete photo gallery →](https://makan-traore-portfolio.makanime3.chatgpt.site/#community)
 
 ---
 
