@@ -9,7 +9,7 @@ I am especially curious about new developments in AI: how models work inside use
 
 **Academic internship: 4 January–25 April 2027 · 16 weeks · Kuala Lumpur / Malaysia**
 
-[Email](mailto:traoremakan483@gmail.com) · [LinkedIn](https://www.linkedin.com/in/makan-traore-2679351a9/) · [Venlio](https://getvenlio.com)
+[Interactive portfolio](https://makan-traore-portfolio.makanime3.chatgpt.site) · [Email](mailto:traoremakan483@gmail.com) · [LinkedIn](https://www.linkedin.com/in/makan-traore-2679351a9/) · [Venlio](https://getvenlio.com)
 
 ---
 
